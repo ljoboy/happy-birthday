@@ -4,7 +4,7 @@
   "greetingText": "I really like your name btw!",
   "wishText": "May the js.prototypes always be with you! ;)",
   "imagePath": "img/weegen2.png",
-  "text1": "It's your birthday!!! :D",
+  "text1": "It's your birthday!!! \uD83D\uDE00",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
@@ -13,11 +13,11 @@
   "text4Adjective": "special",
   "text5Entry": "Because,",
   "text5Content": "You are Special",
-  "smiley": ":)",
+  "smiley": "\uD83D\uDE01",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroSmiley": "\uD83D\uDE0A"
 }
